@@ -28,7 +28,7 @@
         <jspApiVersion>2.1</jspApiVersion>
         <jspElVersion>2.2.4</jspElVersion>
         <jstlVersion>1.2</jstlVersion>
-        <junitVersion>4.11</junitVersion>
+        <junitVersion>4.13.1</junitVersion>
         <log4jVersion>1.2.14</log4jVersion>
         <mockitoVersion>1.9.5</mockitoVersion>
         <servletApiVersion>3.1.0</servletApiVersion>
